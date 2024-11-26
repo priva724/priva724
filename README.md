@@ -12,7 +12,8 @@ Skills: Python/Computer Graphics/Machine Learning/Artificial Intelligence/Image 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Contribute my work 
 - 💬 Ask me about Computer Graphics/Image Processing/Python 
-- 📫 How to reach me: privaakter28@gmail.com 
+- 📫 How to reach me: privaakter28@gmail.com \priva724@gmail.com
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/priva724/priva724)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Priva Akter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Byte Queen)  
